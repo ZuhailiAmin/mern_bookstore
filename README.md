@@ -22,7 +22,7 @@ This application allows users to:
 - Delete a book from the list
 
 ## Application Demo
-
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/ZuhailiAmin/mern_bookstore/blob/main/mern-bookstore-gif.gif))
 
 
 ## Testing and Verification
